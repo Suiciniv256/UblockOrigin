@@ -1,0 +1,31 @@
+uBlock Origin rulesets - JUST COPY PASTE to My Rules in uBlock Origin settings
+To block all Google trackers
+* admob.com * block
+* adsensecustomsearchads.com * block
+* adwords.com * block
+* doubleclick.net * block
+* fonts.googleapis.com * block
+* google-analytics.com * block
+* google.com * block
+* googleadservices.com * block
+* googleapis.com * block
+* googlesyndication.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* googletraveladservices.com * block
+* googleusercontent.com * block
+* gstatic.com * block
+* urchin.com * block
+* youtube.com * block
+* ytimg.com * block
+
+To allow youtube.com
+www.youtube.com content.googleapis.com * noop
+www.youtube.com ggpht.com * noop
+www.youtube.com google.com * noop
+www.youtube.com googleusercontent.com * noop
+www.youtube.com googlevideo.com * noop
+www.youtube.com gstatic.com * noop
+www.youtube.com plus.googleapis.com * noop
+www.youtube.com youtube-nocookie.com * noop
+www.youtube.com ytimg.com * noop
